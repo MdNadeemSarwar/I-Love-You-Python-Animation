@@ -47,7 +47,7 @@ time.sleep(1)
 t.pendown()
 t.shapesize(1,2,1)
 
-# ==============="I"==================
+# ==============="I"================
 t.pen(pencolor="white",fillcolor="red", pensize=3, speed=8)
 
 t.begin_fill()
